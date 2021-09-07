@@ -1,0 +1,78 @@
+body {
+    text-align: center
+}
+
+img {
+    height: 150px;
+    width: 150px;
+}
+
+.cl1 {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    border: 1px solid #c7c7c7;
+}
+
+.cl1 img {
+    height: 200px;
+    width: 400px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+movie_head img {
+    height: 200px;
+    width: 400px;
+}
+
+.img1 {
+    height: 150px;
+    width: 300px;
+}
+
+.contact_1 {
+    margin-left: 0px;
+}
+
+.img3 {
+    height: 200px;
+    width: 200px;
+}
+
+.img_modal {
+    height: 150px;
+    width: 150px;
+}
+
+.img_pic {
+    height: 250px;
+    width: 300px;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.modal-dialog {
+    height: 600px;
+}
+
+.modal fade {
+    height: 600px;
+}
